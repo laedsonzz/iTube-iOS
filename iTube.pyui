@@ -19,17 +19,37 @@
         "nodes" : [
 
         ],
-        "frame" : "{{115, 339}, {150, 22}}",
+        "frame" : "{{115, 401.5}, {150, 22}}",
         "class" : "Label",
         "attributes" : {
-          "name" : "label3",
-          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
           "flex" : "WH",
+          "font_size" : 16,
+          "font_name" : "AppleSDGothicNeo-Light",
           "frame" : "{{113, 318}, {150, 32}}",
           "uuid" : "96CA0984-56AE-4BA6-AE18-67663080B584",
           "class" : "Label",
           "alignment" : "center",
-          "text" : "BAIXAR VIDEOS",
+          "text" : "BAIXAR VIDEO",
+          "name" : "label4",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{115, 339}, {150, 22}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "name" : "label3",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{113, 318}, {150, 32}}",
+          "uuid" : "96CA0984-56AE-4BA6-AE18-67663080B584",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "PLAYLIST DE VIDEO",
           "font_size" : 16,
           "font_name" : "AppleSDGothicNeo-Light"
         },
@@ -78,7 +98,7 @@
         "nodes" : [
 
         ],
-        "frame" : "{{6, 172}, {363, 107}}",
+        "frame" : "{{6, 169}, {363, 107}}",
         "class" : "TextView",
         "attributes" : {
           "uuid" : "735C645F-CB2E-488E-B1D0-8BE7103D1ED2",
@@ -100,7 +120,7 @@
         "nodes" : [
 
         ],
-        "frame" : "{{87, 323}, {205, 55}}",
+        "frame" : "{{90, 324}, {205, 55}}",
         "class" : "Button",
         "attributes" : {
           "uuid" : "0C08038E-A649-4AFF-9B8B-77050DE12EDE",
@@ -133,10 +153,116 @@
           "class" : "Label",
           "alignment" : "center",
           "text" : "v0.1",
-          "name" : "label4",
+          "name" : "label7",
           "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
         },
-        "selected" : true
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{90, 387}, {205, 55}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "0C08038E-A649-4AFF-9B8B-77050DE12EDE",
+          "flex" : "W",
+          "corner_radius" : 9,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{148, 284}, {80, 32}}",
+          "border_width" : 0,
+          "title" : "",
+          "alpha" : 0.20000000000000001,
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{90, 450}, {205, 55}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "0C08038E-A649-4AFF-9B8B-77050DE12EDE",
+          "font_size" : 15,
+          "corner_radius" : 9,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{148, 284}, {80, 32}}",
+          "border_width" : 0,
+          "title" : "",
+          "alpha" : 0.20000000000000001,
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button3",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{113, 463.5}, {150, 22}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label5",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{113, 318}, {150, 32}}",
+          "uuid" : "96CA0984-56AE-4BA6-AE18-67663080B584",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "PLAYLIST DE MUSICA",
+          "font_size" : 16,
+          "font_name" : "AppleSDGothicNeo-Light"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{113, 528}, {150, 22}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label6",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{113, 318}, {150, 32}}",
+          "uuid" : "96CA0984-56AE-4BA6-AE18-67663080B584",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "BAIXAR MUSICA",
+          "font_size" : 16,
+          "font_name" : "AppleSDGothicNeo-Light"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{90, 513}, {205, 55}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "0C08038E-A649-4AFF-9B8B-77050DE12EDE",
+          "flex" : "W",
+          "corner_radius" : 9,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{148, 284}, {80, 32}}",
+          "border_width" : 0,
+          "title" : "",
+          "alpha" : 0.20000000000000001,
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button4",
+          "font_size" : 15
+        },
+        "selected" : false
       }
     ],
     "frame" : "{{0, 0}, {375, 667}}",
@@ -145,8 +271,8 @@
       "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
       "enabled" : true,
       "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
-      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
       "name" : "iTube",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
       "flex" : ""
     },
     "selected" : false
