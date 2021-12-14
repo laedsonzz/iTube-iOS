@@ -14,7 +14,7 @@ Por enquanto, apenas nos formatos padrões MP3 e MP4.
 - iPhone com [Pythonista 3](https://apps.apple.com/br/app/pythonista-3/id1085978097) instalado **(no iPad irá funcionar, mas não tenho certeza se as dimensões ficarão corretas, você poderá ajustar no código, caso falhe :D)**
 - [StaSh](https://github.com/ywangd/stash) é um shell para o Pythonista, vai servir para baixar dependências do Python com o pip.
 - [pytube](https://github.com/pytube/pytube) é a única dependência necessária para usar o aplicativo.
-- [iSH](https://apps.apple.com/br/app/ish-shell/id1436902243) é um terminar linux 32 bits completo **(opcional)**
+- [iSH](https://apps.apple.com/br/app/ish-shell/id1436902243) é um terminal linux 32 bits completo **(opcional)**
 
 # Instalando
 
