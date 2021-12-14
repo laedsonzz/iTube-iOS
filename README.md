@@ -1,5 +1,7 @@
 # iTube
 
+<img src="/template.PNG" >
+
 Escrito em Python, iTube é um aplicativo criado através do Pythonista 3, com o objetivo de atender minhas necessidades pessoais.
 
 # Funcionalidades
