@@ -2,25 +2,25 @@
 
 <img src="/template.PNG" >
 
-Escrito em Python, iTube é um aplicativo criado através do Pythonista 3, com o objetivo de atender minhas necessidades pessoais.
+Written in Python, iTube is an application created using Pythonista 3, with the aim of meeting my personal needs.
 
-# Funcionalidades
+# Functions
 
-- Baixar vídeos e músicas individualmente.
-- Baixar playlists do YouTube (músicas e vídeos).
+- Download videos and music individually.
+- Download YouTube playlists (songs and videos).
 
-Por enquanto, apenas nos formatos padrões MP3 e MP4.
+For now, only in standard MP3 and MP4 formats.
 
-# Requisitos
+# Requirements
 
-- iPhone com [Pythonista 3](https://apps.apple.com/br/app/pythonista-3/id1085978097) instalado **(no iPad irá funcionar, mas não tenho certeza se as dimensões ficarão corretas, você poderá ajustar no código, caso falhe :D)**
-- [StaSh](https://github.com/ywangd/stash) é um shell para o Pythonista, vai servir para baixar dependências do Python com o pip.
-- [pytube](https://github.com/pytube/pytube) é a única dependência necessária para usar o aplicativo.
+- iPhone with [Pythonista 3](https://apps.apple.com/br/app/pythonista-3/id1085978097) installed **(on the iPad it will work, but I'm not sure if the dimensions will be correct, you can tweak it in the code if it fails :D)**
+- [StaSh](https://github.com/ywangd/stash) is a shell for Pythonista, it will be used to download Python dependencies with pip.
+- [pytube](https://github.com/pytube/pytube) it is the only dependency needed to use the app.
 
-# Instalando
+# Installation
 
-- **Passo 1:** Inicie o StaSh e no terminal digite: "pip install pytube" sem as aspas.
-- **Passo 2:** Baixe o arquivo iTube.v0.1.zip em [Releases](https://github.com/laedsonzz/iTube-iOS/releases/tag/iTube-iOS) depois extraia.
-- **Passo 3:** Importe o projeto para o Pythonista 3
+- **Step 1:** Start StaSh and in the terminal type: "pip install pytube" without the quotes.
+- **Step 2:** Download the iTube.v0.1.zip file from [Releases](https://github.com/laedsonzz/iTube-iOS/releases/tag/iTube-iOS) then extract.
+- **Step 3:** Import the project into Pythonista 3
 
-Pronto, agora basta iniciar através do script iTube.py (recomendo adicionar um atalho a tela inicial, leia a documentação do Pythonista para mais informações).
+Okay, now just start using the iTube.py script (I recommend adding a shortcut to the home screen, read Pythonista's documentation for more information).
